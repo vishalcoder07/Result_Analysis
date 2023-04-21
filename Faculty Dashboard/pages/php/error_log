@@ -1,0 +1,75 @@
+[14-Sep-2022 13:27:14 UTC] PHP Parse error:  syntax error, unexpected '$_SESSION' (T_VARIABLE) in /home/tablasdf/fabiller.gpnagar.ac.in/Faculty Dashboard/pages/php/Bill.php on line 51
+[14-Sep-2022 13:27:19 UTC] PHP Parse error:  syntax error, unexpected '$_SESSION' (T_VARIABLE) in /home/tablasdf/fabiller.gpnagar.ac.in/Faculty Dashboard/pages/php/Bill.php on line 51
+[14-Sep-2022 13:46:55 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/tablasdf/fabiller.gpnagar.ac.in/Faculty Dashboard/pages/php/Bill.php on line 47
+[14-Sep-2022 13:47:07 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/tablasdf/fabiller.gpnagar.ac.in/Faculty Dashboard/pages/php/Bill.php on line 47
+[14-Sep-2022 13:47:09 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/tablasdf/fabiller.gpnagar.ac.in/Faculty Dashboard/pages/php/Bill.php on line 47
+[14-Sep-2022 13:47:10 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/tablasdf/fabiller.gpnagar.ac.in/Faculty Dashboard/pages/php/Bill.php on line 47
+[14-Sep-2022 13:52:49 UTC] PHP Warning:  include(./php/Connection.php): failed to open stream: No such file or directory in /home/tablasdf/fabiller.gpnagar.ac.in/Faculty Dashboard/pages/php/Bill.php on line 8
+[14-Sep-2022 13:52:49 UTC] PHP Warning:  include(./php/Connection.php): failed to open stream: No such file or directory in /home/tablasdf/fabiller.gpnagar.ac.in/Faculty Dashboard/pages/php/Bill.php on line 8
+[14-Sep-2022 13:52:49 UTC] PHP Warning:  include(): Failed opening './php/Connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/tablasdf/fabiller.gpnagar.ac.in/Faculty Dashboard/pages/php/Bill.php on line 8
+[14-Sep-2022 13:52:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/tablasdf/fabiller.gpnagar.ac.in/Faculty Dashboard/pages/php/Bill.php:181
+Stack trace:
+#0 {main}
+  thrown in /home/tablasdf/fabiller.gpnagar.ac.in/Faculty Dashboard/pages/php/Bill.php on line 181
+[14-Sep-2022 13:52:57 UTC] PHP Warning:  include(./php/Connection.php): failed to open stream: No such file or directory in /home/tablasdf/fabiller.gpnagar.ac.in/Faculty Dashboard/pages/php/Bill.php on line 8
+[14-Sep-2022 13:52:57 UTC] PHP Warning:  include(./php/Connection.php): failed to open stream: No such file or directory in /home/tablasdf/fabiller.gpnagar.ac.in/Faculty Dashboard/pages/php/Bill.php on line 8
+[14-Sep-2022 13:52:57 UTC] PHP Warning:  include(): Failed opening './php/Connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/tablasdf/fabiller.gpnagar.ac.in/Faculty Dashboard/pages/php/Bill.php on line 8
+[14-Sep-2022 13:52:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/tablasdf/fabiller.gpnagar.ac.in/Faculty Dashboard/pages/php/Bill.php:181
+Stack trace:
+#0 {main}
+  thrown in /home/tablasdf/fabiller.gpnagar.ac.in/Faculty Dashboard/pages/php/Bill.php on line 181
+[14-Sep-2022 13:53:14 UTC] PHP Warning:  include(./php/Connection.php): failed to open stream: No such file or directory in /home/tablasdf/fabiller.gpnagar.ac.in/Faculty Dashboard/pages/php/Bill.php on line 8
+[14-Sep-2022 13:53:14 UTC] PHP Warning:  include(./php/Connection.php): failed to open stream: No such file or directory in /home/tablasdf/fabiller.gpnagar.ac.in/Faculty Dashboard/pages/php/Bill.php on line 8
+[14-Sep-2022 13:53:14 UTC] PHP Warning:  include(): Failed opening './php/Connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/tablasdf/fabiller.gpnagar.ac.in/Faculty Dashboard/pages/php/Bill.php on line 8
+[14-Sep-2022 13:53:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/tablasdf/fabiller.gpnagar.ac.in/Faculty Dashboard/pages/php/Bill.php:181
+Stack trace:
+#0 {main}
+  thrown in /home/tablasdf/fabiller.gpnagar.ac.in/Faculty Dashboard/pages/php/Bill.php on line 181
+[14-Sep-2022 13:53:37 UTC] PHP Warning:  include(./php/Connection.php): failed to open stream: No such file or directory in /home/tablasdf/fabiller.gpnagar.ac.in/Faculty Dashboard/pages/php/Bill.php on line 8
+[14-Sep-2022 13:53:37 UTC] PHP Warning:  include(./php/Connection.php): failed to open stream: No such file or directory in /home/tablasdf/fabiller.gpnagar.ac.in/Faculty Dashboard/pages/php/Bill.php on line 8
+[14-Sep-2022 13:53:37 UTC] PHP Warning:  include(): Failed opening './php/Connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/tablasdf/fabiller.gpnagar.ac.in/Faculty Dashboard/pages/php/Bill.php on line 8
+[14-Sep-2022 13:53:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/tablasdf/fabiller.gpnagar.ac.in/Faculty Dashboard/pages/php/Bill.php:181
+Stack trace:
+#0 {main}
+  thrown in /home/tablasdf/fabiller.gpnagar.ac.in/Faculty Dashboard/pages/php/Bill.php on line 181
+[14-Sep-2022 15:39:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/tablasdf/fabiller.gpnagar.ac.in/Faculty Dashboard/pages/php/Billsubmit.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/tablasdf/fabiller.gpnagar.ac.in/Faculty Dashboard/pages/php/Billsubmit.php on line 15
+[14-Sep-2022 15:41:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/tablasdf/fabiller.gpnagar.ac.in/Faculty Dashboard/pages/php/Billsubmit.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tablasdf/fabiller.gpnagar.ac.in/Faculty Dashboard/pages/php/Billsubmit.php on line 16
+[14-Sep-2022 15:41:55 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/tablasdf/fabiller.gpnagar.ac.in/Faculty Dashboard/pages/php/Billsubmit.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tablasdf/fabiller.gpnagar.ac.in/Faculty Dashboard/pages/php/Billsubmit.php on line 16
+[14-Sep-2022 15:42:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/tablasdf/fabiller.gpnagar.ac.in/Faculty Dashboard/pages/php/Billsubmit.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/tablasdf/fabiller.gpnagar.ac.in/Faculty Dashboard/pages/php/Billsubmit.php on line 17
+[14-Sep-2022 15:43:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/tablasdf/fabiller.gpnagar.ac.in/Faculty Dashboard/pages/php/Billsubmit.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/tablasdf/fabiller.gpnagar.ac.in/Faculty Dashboard/pages/php/Billsubmit.php on line 17
+[14-Sep-2022 15:57:12 UTC] PHP Warning:  include(./php/prebilldetails.php): failed to open stream: No such file or directory in /home/tablasdf/fabiller.gpnagar.ac.in/Faculty Dashboard/pages/php/Billdetails.php on line 10
+[14-Sep-2022 15:57:12 UTC] PHP Warning:  include(./php/prebilldetails.php): failed to open stream: No such file or directory in /home/tablasdf/fabiller.gpnagar.ac.in/Faculty Dashboard/pages/php/Billdetails.php on line 10
+[14-Sep-2022 15:57:12 UTC] PHP Warning:  include(): Failed opening './php/prebilldetails.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/tablasdf/fabiller.gpnagar.ac.in/Faculty Dashboard/pages/php/Billdetails.php on line 10
+[14-Sep-2022 15:57:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/tablasdf/fabiller.gpnagar.ac.in/Faculty Dashboard/pages/php/Billdetails.php:173
+Stack trace:
+#0 {main}
+  thrown in /home/tablasdf/fabiller.gpnagar.ac.in/Faculty Dashboard/pages/php/Billdetails.php on line 173
+[14-Sep-2022 15:57:31 UTC] PHP Warning:  include(./php/prebilldetails.php): failed to open stream: No such file or directory in /home/tablasdf/fabiller.gpnagar.ac.in/Faculty Dashboard/pages/php/Billdetails.php on line 10
+[14-Sep-2022 15:57:31 UTC] PHP Warning:  include(./php/prebilldetails.php): failed to open stream: No such file or directory in /home/tablasdf/fabiller.gpnagar.ac.in/Faculty Dashboard/pages/php/Billdetails.php on line 10
+[14-Sep-2022 15:57:31 UTC] PHP Warning:  include(): Failed opening './php/prebilldetails.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/tablasdf/fabiller.gpnagar.ac.in/Faculty Dashboard/pages/php/Billdetails.php on line 10
+[14-Sep-2022 15:57:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/tablasdf/fabiller.gpnagar.ac.in/Faculty Dashboard/pages/php/Billdetails.php:173
+Stack trace:
+#0 {main}
+  thrown in /home/tablasdf/fabiller.gpnagar.ac.in/Faculty Dashboard/pages/php/Billdetails.php on line 173
+[14-Sep-2022 15:58:30 UTC] PHP Warning:  include(./php/prebilldetails.php): failed to open stream: No such file or directory in /home/tablasdf/fabiller.gpnagar.ac.in/Faculty Dashboard/pages/php/Billdetails.php on line 10
+[14-Sep-2022 15:58:30 UTC] PHP Warning:  include(./php/prebilldetails.php): failed to open stream: No such file or directory in /home/tablasdf/fabiller.gpnagar.ac.in/Faculty Dashboard/pages/php/Billdetails.php on line 10
+[14-Sep-2022 15:58:30 UTC] PHP Warning:  include(): Failed opening './php/prebilldetails.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/tablasdf/fabiller.gpnagar.ac.in/Faculty Dashboard/pages/php/Billdetails.php on line 10
+[14-Sep-2022 15:58:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/tablasdf/fabiller.gpnagar.ac.in/Faculty Dashboard/pages/php/Billdetails.php:173
+Stack trace:
+#0 {main}
+  thrown in /home/tablasdf/fabiller.gpnagar.ac.in/Faculty Dashboard/pages/php/Billdetails.php on line 173

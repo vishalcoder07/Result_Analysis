@@ -1,0 +1,26 @@
+#bname{
+    font-size:1.5rem;
+}
+body{
+    background-color: #fafafa !important;
+    }
+    .main-section{
+    margin-top:100px;
+    border:1px solid #d5d5d5;
+    box-shadow: 1px 1px 15px #000;
+    font-family: 'Roboto Condensed', sans-serif;
+    }
+    .header{
+    font-size:22px;
+    }
+    .box-sectiopn i{
+    font-size:40px;
+    padding-top:35px;
+    }
+    .box-sectiopn{
+    cursor: pointer;
+    }
+    .box-sectiopn:hover i{
+    font-size: 60px;
+    transition: 0.5s;
+    }
