@@ -174,14 +174,14 @@ a:hover, a:active {
 /*
 # Nav Bar
 --------------------------------*/
-.nav-bar {
+/* .nav-bar {
     padding: 20px 0;
     background: rgba(255,255,255,.1);
     background: url(images/clg-logo.png) no-repeat center;
     background-size: 20rem;
     height: 5rem;
     filter: invert(63%)
-}
+} */
 
 /*
 # Site Branding
@@ -338,7 +338,7 @@ a:hover, a:active {
 # Hero Section
 --------------------------------------------------------------*/
 .hero-content {
-    background: url("images/clg-Image.png") no-repeat center;
+    background: url("images/clg-Image.jpg") no-repeat center;
     background-size: cover;
 }
 
